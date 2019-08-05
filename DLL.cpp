@@ -77,7 +77,7 @@ class DLL
 				cout<<"\nStart - "<<start->data<<" End - "<<end->data<<endl;
 			}
 			
-			void del()
+			void del()					//delete last node
 			{
 				struct node *l,*sl;
 				
