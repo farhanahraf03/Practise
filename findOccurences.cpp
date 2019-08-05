@@ -4,6 +4,8 @@
 #include<iterator>
 using namespace std;
 
+//Index are 1-based
+//Map is used
 
 int findOcc(char, string, int, int );
 
